@@ -106,3 +106,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 5mok/Library
 5mok/UserSettings
+5mok/obj
+5mok/Temp
